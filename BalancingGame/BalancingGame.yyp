@@ -34,9 +34,10 @@
     "IDEVersion": "2023.8.2.106",
   },
   "resources": [
+    {"id":{"name":"obj_wheel","path":"objects/obj_wheel/obj_wheel.yy",},},
+    {"id":{"name":"spr_ticker","path":"sprites/spr_ticker/spr_ticker.yy",},},
     {"id":{"name":"spr_wheel","path":"sprites/spr_wheel/spr_wheel.yy",},},
-    {"id":{"name":"spr_bkg_beach","path":"sprites/spr_bkg_beach/spr_bkg_beach.yy",},},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"obj_ticker","path":"objects/obj_ticker/obj_ticker.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

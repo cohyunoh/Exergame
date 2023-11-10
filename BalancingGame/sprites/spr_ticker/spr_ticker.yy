@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "spr_bkg_beach",
-  "bbox_bottom": 815,
+  "name": "spr_ticker",
+  "bbox_bottom": 127,
   "bbox_left": 0,
-  "bbox_right": 1455,
+  "bbox_right": 63,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,26 +13,26 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"af5a88da-df55-4097-833a-67135d1dd94f",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a27da352-f1c0-495c-b2e4-ae4021f445d0",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 816,
+  "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"63be1e8a-55d8-4767-84bb-6a67ac81bc0a","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"30456f80-4b4b-4986-af00-fcce0971bc12","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "BalancingGame",
-    "path": "BalancingGame.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "spr_bkg_beach",
+    "name": "spr_ticker",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"af5a88da-df55-4097-833a-67135d1dd94f","path":"sprites/spr_bkg_beach/spr_bkg_beach.yy",},},},"Disabled":false,"id":"187637bd-a4de-47d6-9d79-095ba6dd5240","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a27da352-f1c0-495c-b2e4-ae4021f445d0","path":"sprites/spr_ticker/spr_ticker.yy",},},},"Disabled":false,"id":"9e760cb4-c494-4462-b606-fdba1786c796","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 1456,
+  "width": 64,
 }
