@@ -31,7 +31,6 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-<<<<<<< HEAD:Exergame/Exergame.yyp
     "IDEVersion": "2023.8.2.108",
   },
   "resources": [
@@ -58,23 +57,6 @@
     {"roomId":{"name":"startmenu","path":"rooms/startmenu/startmenu.yy",},},
     {"roomId":{"name":"gameroomNZ","path":"rooms/gameroomNZ/gameroomNZ.yy",},},
     {"roomId":{"name":"gameover","path":"rooms/gameover/gameover.yy",},},
-=======
-    "IDEVersion": "2023.8.2.106",
-  },
-  "resources": [
-    {"id":{"name":"obj_wheel","path":"objects/obj_wheel/obj_wheel.yy",},},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"id":{"name":"test_Obj","path":"objects/test_Obj/test_Obj.yy",},},
-    {"id":{"name":"spr_tiny_dot","path":"sprites/spr_tiny_dot/spr_tiny_dot.yy",},},
-    {"id":{"name":"spr_ticker","path":"sprites/spr_ticker/spr_ticker.yy",},},
-    {"id":{"name":"spr_wheel","path":"sprites/spr_wheel/spr_wheel.yy",},},
-    {"id":{"name":"obj_ticker","path":"objects/obj_ticker/obj_ticker.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-  ],
-  "RoomOrderNodes": [
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
->>>>>>> eba8b98f04e9fde51ff9318f10d2c605498a417d:BalancingGame/BalancingGame.yyp
   ],
   "templateType": "game",
   "TextureGroups": [
