@@ -17,8 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"spr_ticker","order":3,"path":"sprites/spr_ticker/spr_ticker.yy",},
-    {"name":"spr_wheel","order":4,"path":"sprites/spr_wheel/spr_wheel.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"test_Obj","order":2,"path":"objects/test_Obj/test_Obj.yy",},
+    {"name":"spr_tiny_dot","order":2,"path":"sprites/spr_tiny_dot/spr_tiny_dot.yy",},
+    {"name":"spr_wheel","order":1,"path":"sprites/spr_wheel/spr_wheel.yy",},
     {"name":"obj_ticker","order":1,"path":"objects/obj_ticker/obj_ticker.yy",},
   ],
 }
