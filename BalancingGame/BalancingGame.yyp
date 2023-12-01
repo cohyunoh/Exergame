@@ -31,34 +31,6 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-<<<<<<< HEAD:Exergame/Exergame.yyp
-    "IDEVersion": "2023.8.2.108",
-  },
-  "resources": [
-    {"id":{"name":"gatorNZ","path":"objects/gatorNZ/gatorNZ.yy",},},
-    {"id":{"name":"playerNZ","path":"sprites/playerNZ/playerNZ.yy",},},
-    {"id":{"name":"en","path":"sprites/en/en.yy",},},
-    {"id":{"name":"gameover","path":"rooms/gameover/gameover.yy",},},
-    {"id":{"name":"fnt3","path":"fonts/fnt3/fnt3.yy",},},
-    {"id":{"name":"startmenu","path":"rooms/startmenu/startmenu.yy",},},
-    {"id":{"name":"canoer","path":"objects/canoer/canoer.yy",},},
-    {"id":{"name":"gator","path":"sprites/gator/gator.yy",},},
-    {"id":{"name":"moveobstacle","path":"objects/moveobstacle/moveobstacle.yy",},},
-    {"id":{"name":"fnt_timer","path":"fonts/fnt_timer/fnt_timer.yy",},},
-    {"id":{"name":"fnt_timer2","path":"fonts/fnt_timer2/fnt_timer2.yy",},},
-    {"id":{"name":"gamemovermessageNZ","path":"objects/gamemovermessageNZ/gamemovermessageNZ.yy",},},
-    {"id":{"name":"bootNZ","path":"sprites/bootNZ/bootNZ.yy",},},
-    {"id":{"name":"water","path":"sprites/water/water.yy",},},
-    {"id":{"name":"getreadytimer","path":"objects/getreadytimer/getreadytimer.yy",},},
-    {"id":{"name":"scorekeeperNZ","path":"objects/scorekeeperNZ/scorekeeperNZ.yy",},},
-    {"id":{"name":"boot","path":"objects/boot/boot.yy",},},
-    {"id":{"name":"gameroomNZ","path":"rooms/gameroomNZ/gameroomNZ.yy",},},
-  ],
-  "RoomOrderNodes": [
-    {"roomId":{"name":"startmenu","path":"rooms/startmenu/startmenu.yy",},},
-    {"roomId":{"name":"gameroomNZ","path":"rooms/gameroomNZ/gameroomNZ.yy",},},
-    {"roomId":{"name":"gameover","path":"rooms/gameover/gameover.yy",},},
-=======
     "IDEVersion": "2023.8.2.106",
   },
   "resources": [
@@ -74,7 +46,6 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
->>>>>>> eba8b98f04e9fde51ff9318f10d2c605498a417d:BalancingGame/BalancingGame.yyp
   ],
   "templateType": "game",
   "TextureGroups": [
