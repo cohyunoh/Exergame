@@ -1,4 +1,11 @@
 //show_debug_message("Image Angle: " + string(image_angle));
+if(spin_back){
+	image_angle+= sin(degtorad(image_angle))*wheel_speed;
+	if(image_angle<=0){
+		spin_back=false;
+		speed_up=true;
+	}
+}
 if (speed_up){
 	//show_debug_message("speeding up");
 	image_angle += wheel_speed*0.1*sqr(val);
