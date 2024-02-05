@@ -1,4 +1,4 @@
-draw_set_font(font_prompt);
+draw_set_font(fnt_prompt);
 
 draw_set_colour($FFFFFFFF & $ffffff);
 

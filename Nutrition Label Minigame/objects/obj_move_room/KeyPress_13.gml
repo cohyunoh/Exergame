@@ -1,1 +1,1 @@
-room_goto(rm_nutritionlabelminigame);
+room_goto(rm_nl_minigame);

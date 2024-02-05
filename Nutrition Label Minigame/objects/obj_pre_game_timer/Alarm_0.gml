@@ -1,3 +1,3 @@
 timer_index += 1;
 
-alarm_set(0, 60);
+alarm[0] = 60;

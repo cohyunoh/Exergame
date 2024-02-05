@@ -1,4 +1,4 @@
-draw_set_font(font_timer);
+draw_set_font(fnt_timer);
 
 draw_set_colour($FFFFFFFF & $ffffff);
 

@@ -1,4 +1,10 @@
 show_time = [5, 4, 3, 2, 1, "Go!"];
 timer_index = 0;
 
-alarm_set(0, 60);
+alarm[0] = 60;
+
+options_generator();
+global.eg_num1 = eg_num1;
+global.eg_num2 = eg_num2;
+global.nl_num1 = nl_num1;
+global.nl_num2 = nl_num2;
