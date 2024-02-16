@@ -14,7 +14,7 @@ if (!variable_global_exists("_current_exercise_index")) {
 }
 
 randomize();
-_global_current_exercise_index = random_range(0,5);
+_global_current_exercise_index = irandom_range(0,5);
 _global_current_exercise = global._exercise_options[| _global_current_exercise_index];
 
 // Set exercise timer duration
