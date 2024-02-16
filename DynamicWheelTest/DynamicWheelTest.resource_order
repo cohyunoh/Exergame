@@ -22,5 +22,6 @@
     {"name":"balance_bg_each","order":3,"path":"sprites/balance_bg_each/balance_bg_each.yy",},
     {"name":"balance_spr_pole","order":2,"path":"sprites/balance_spr_pole/balance_spr_pole.yy",},
     {"name":"balance_obj_ticker","order":2,"path":"objects/balance_obj_ticker/balance_obj_ticker.yy",},
+    {"name":"balance_rm_start","order":1,"path":"rooms/balance_rm_start/balance_rm_start.yy",},
   ],
 }

@@ -1,15 +1,15 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Balance_Wheel_Spin",
+  "name": "balance_rm_wheel",
   "creationCodeFile": "",
   "inheritCode": false,
   "inheritCreationOrder": false,
   "inheritLayers": false,
   "instanceCreationOrder": [
-    {"name":"inst_377D831E","path":"rooms/Balance_Wheel_Spin/Balance_Wheel_Spin.yy",},
-    {"name":"inst_16356C3E","path":"rooms/Balance_Wheel_Spin/Balance_Wheel_Spin.yy",},
-    {"name":"inst_6903B09D","path":"rooms/Balance_Wheel_Spin/Balance_Wheel_Spin.yy",},
+    {"name":"inst_377D831E","path":"rooms/balance_rm_wheel/balance_rm_wheel.yy",},
+    {"name":"inst_16356C3E","path":"rooms/balance_rm_wheel/balance_rm_wheel.yy",},
+    {"name":"inst_6903B09D","path":"rooms/balance_rm_wheel/balance_rm_wheel.yy",},
   ],
   "isDnd": false,
   "layers": [
