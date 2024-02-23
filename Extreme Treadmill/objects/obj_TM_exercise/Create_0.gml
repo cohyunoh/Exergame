@@ -12,8 +12,8 @@ ds_list_add(global._exercise_options, "butt_kicks");
 if (!variable_global_exists("_current_exercise_index")) {
     global._current_exercise_index = 0;
 }
-
-_global_current_exercise_index = irandom(ds_list_size(global._exercise_options) - 1);
+randomize()
+_global_current_exercise_index = random_range(0,5);
 _global_current_exercise = global._exercise_options[| _global_current_exercise_index];
 
 // Set exercise timer duration
