@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "boot",
+  "name": "balance_obj_player",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -11,10 +11,7 @@
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": {
-    "name": "moveobstacle",
-    "path": "objects/moveobstacle/moveobstacle.yy",
-  },
+  "parentObjectId": null,
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -31,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite7",
-    "path": "sprites/Sprite7/Sprite7.yy",
+    "name": "balance_player",
+    "path": "sprites/balance_player/balance_player.yy",
   },
   "spriteMaskId": null,
   "visible": true,
