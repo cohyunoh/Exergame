@@ -19,5 +19,5 @@ if(balance_obj_wheel.is_spinning){
 			move=false;
 		}
 	}
-	show_debug_message(image_angle);
+	//show_debug_message(image_angle);
 }

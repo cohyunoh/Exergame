@@ -1,4 +1,3 @@
-
 for(i=0;i<segments;i++){
 	draw_pie(x,y,angle,360-angle,colors[i%array_length(colors)],radius,1,rotate+angles[i]);
 }
@@ -30,7 +29,7 @@ if (speed_up){
 	//show_debug_message("speeding up");
 	rotate += wheel_speed*0.1*sqr(val);
 	val+=0.05;
-	if (0.1*sqr(val)>=1){
+	if (0.1*sqr(val)>=0.75){
 		speed_up=false;
 		constant_speed = true;
 		currentspeed = wheel_speed*0.1*sqr(val);
@@ -38,7 +37,9 @@ if (speed_up){
 	}
 }
 if(constant_speed = true){
-	//show_debug_message("constant speed");
+	show_debug_message("constant speed");
+	show_debug_message(rand1);
+	show_debug_message(rotate);
 	rotate += currentspeed;
 	if(rotate>1000){
 		if(rotate>=rand1){
@@ -49,16 +50,15 @@ if(constant_speed = true){
 	}
 }
 if(slow_down){
-	show_debug_message("stop");
-	show_debug_message(currentspeed*(1/sqr(rand2))*sqr(val1-rand2));
+	//show_debug_message("stop");
+	//show_debug_message(currentspeed*(1/sqr(rand2))*sqr(val1-rand2));
 	rotate+=currentspeed*(1/sqr(rand2))*sqr(rand2-val1);
-	val1+=rand2/1000;
+	val1+=rand2/100;
 	if(currentspeed*(1/sqr(rand2))*sqr(rand2-val1) <= 0){
 		slow_down=false;
 		reverse=true;
 	}
 }
-
 
 
 

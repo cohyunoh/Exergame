@@ -12,7 +12,7 @@ if(!is_spinning){
 	val2=0;
 	val3=0;
 	randomize();
-	rand1=random_range(1500,6000);	
+	rand1=random_range(1500,3000);	
 	randomize();
 	rand2=random_range(100,200);
 	done=false;
