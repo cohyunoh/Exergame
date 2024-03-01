@@ -1,0 +1,1 @@
+image_alpha = 1; //setg opacity back to full when moving mouse away
