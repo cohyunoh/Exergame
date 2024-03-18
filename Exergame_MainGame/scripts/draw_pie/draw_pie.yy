@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_pie",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_pie",
+  "parent":{
+    "name":"SCR_balance",
+    "path":"folders/Scripts/SCR_balance.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

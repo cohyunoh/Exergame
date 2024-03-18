@@ -42,8 +42,8 @@
   ],
   "name":"rm_extreme_treadmill",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Rooms.yy",
+    "name":"RM_TM",
+    "path":"folders/Rooms/RM_TM.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -3,7 +3,5 @@
 
 
 
-// Inherit the parent event
-event_inherited();
 
-room_goto(balance_rm_start);
+room_goto(balance_rm_wheel);

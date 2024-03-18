@@ -1,9 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+move=false;
 
 
 
-// Inherit the parent event
-event_inherited();
-
-room_goto(balance_rm_start);
