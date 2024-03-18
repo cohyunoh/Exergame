@@ -1,6 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-segments=11;
+segments=9;
 angle=360/segments;
 rotate=0;
 angles=[];
@@ -24,6 +24,7 @@ rand3=0;
 radius=400;
 initial_rotate=0;
 done=false;
+
 
 if(segments%2 == 0){
 	colors=[c_red,c_yellow];
