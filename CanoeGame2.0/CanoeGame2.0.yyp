@@ -8,6 +8,25 @@
     "children":[],
     "name":"Default",
   },
+<<<<<<< HEAD
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Notes","folderPath":"folders/Notes.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Paths","folderPath":"folders/Paths.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Scripts","folderPath":"folders/Scripts.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sequences","folderPath":"folders/Sequences.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Shaders","folderPath":"folders/Shaders.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sounds","folderPath":"folders/Sounds.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
+=======
   "defaultScriptType":0,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -25,6 +44,7 @@
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
+>>>>>>> c2f846427e05569223ee8a051a46c814a59811cf
   ],
   "IncludedFiles":[],
   "isEcma":false,
@@ -32,6 +52,19 @@
   "MetaData":{
     "IDEVersion":"2023.8.2.108",
   },
+<<<<<<< HEAD
+  "resources": [
+    {"id":{"name":"spr_waterNZ","path":"sprites/spr_waterNZ/spr_waterNZ.yy",},},
+    {"id":{"name":"scoredisplay","path":"rooms/scoredisplay/scoredisplay.yy",},},
+    {"id":{"name":"canoegameroom","path":"rooms/canoegameroom/canoegameroom.yy",},},
+    {"id":{"name":"obj_scorekeeperNZ","path":"objects/obj_scorekeeperNZ/obj_scorekeeperNZ.yy",},},
+    {"id":{"name":"obj_gatorNZ","path":"objects/obj_gatorNZ/obj_gatorNZ.yy",},},
+    {"id":{"name":"spr_loserNZ","path":"sprites/spr_loserNZ/spr_loserNZ.yy",},},
+    {"id":{"name":"spr_playerNZ","path":"sprites/spr_playerNZ/spr_playerNZ.yy",},},
+    {"id":{"name":"obj_getreadytimerNZ","path":"objects/obj_getreadytimerNZ/obj_getreadytimerNZ.yy",},},
+    {"id":{"name":"spr_bootNZ","path":"sprites/spr_bootNZ/spr_bootNZ.yy",},},
+    {"id":{"name":"obj_bootNZ","path":"objects/obj_bootNZ/obj_bootNZ.yy",},},
+=======
   "name":"CanoeGame2.0",
   "resources":[
     {"id":{"name":"endNZ","path":"sprites/endNZ/endNZ.yy",},},
@@ -39,16 +72,27 @@
     {"id":{"name":"NZboot","path":"objects/NZboot/NZboot.yy",},},
     {"id":{"name":"playerNZ","path":"sprites/playerNZ/playerNZ.yy",},},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+>>>>>>> c2f846427e05569223ee8a051a46c814a59811cf
     {"id":{"name":"fnt_timer","path":"fonts/fnt_timer/fnt_timer.yy",},},
-    {"id":{"name":"gatorNZ","path":"sprites/gatorNZ/gatorNZ.yy",},},
+    {"id":{"name":"spr_gatorNZ","path":"sprites/spr_gatorNZ/spr_gatorNZ.yy",},},
     {"id":{"name":"fnt3","path":"fonts/fnt3/fnt3.yy",},},
+    {"id":{"name":"obj_gamemovermessageNZ","path":"objects/obj_gamemovermessageNZ/obj_gamemovermessageNZ.yy",},},
     {"id":{"name":"fnt_timer2","path":"fonts/fnt_timer2/fnt_timer2.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"obj_canoeNZ","path":"objects/obj_canoeNZ/obj_canoeNZ.yy",},},
+    {"id":{"name":"fun_moveobstacleNZ","path":"objects/fun_moveobstacleNZ/fun_moveobstacleNZ.yy",},},
+    {"id":{"name":"startmenu","path":"rooms/startmenu/startmenu.yy",},},
   ],
+<<<<<<< HEAD
+  "RoomOrderNodes": [
+    {"roomId":{"name":"startmenu","path":"rooms/startmenu/startmenu.yy",},},
+    {"roomId":{"name":"canoegameroom","path":"rooms/canoegameroom/canoegameroom.yy",},},
+    {"roomId":{"name":"scoredisplay","path":"rooms/scoredisplay/scoredisplay.yy",},},
+=======
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+>>>>>>> c2f846427e05569223ee8a051a46c814a59811cf
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
+  "FolderOrderSettings": [
+=======
   "FolderOrderSettings":[
+>>>>>>> c2f846427e05569223ee8a051a46c814a59811cf
     {"name":"Animation Curves","order":12,"path":"folders/Animation Curves.yy",},
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":7,"path":"folders/Fonts.yy",},
@@ -16,12 +20,28 @@
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
+<<<<<<< HEAD
+  "ResourceOrderSettings": [
+    {"name":"spr_waterNZ","order":1,"path":"sprites/spr_waterNZ/spr_waterNZ.yy",},
+    {"name":"scoredisplay","order":2,"path":"rooms/scoredisplay/scoredisplay.yy",},
+    {"name":"canoegameroom","order":1,"path":"rooms/canoegameroom/canoegameroom.yy",},
+    {"name":"obj_scorekeeperNZ","order":5,"path":"objects/obj_scorekeeperNZ/obj_scorekeeperNZ.yy",},
+    {"name":"obj_gatorNZ","order":3,"path":"objects/obj_gatorNZ/obj_gatorNZ.yy",},
+    {"name":"spr_loserNZ","order":4,"path":"sprites/spr_loserNZ/spr_loserNZ.yy",},
+    {"name":"spr_playerNZ","order":3,"path":"sprites/spr_playerNZ/spr_playerNZ.yy",},
+    {"name":"obj_getreadytimerNZ","order":4,"path":"objects/obj_getreadytimerNZ/obj_getreadytimerNZ.yy",},
+    {"name":"spr_gatorNZ","order":2,"path":"sprites/spr_gatorNZ/spr_gatorNZ.yy",},
+=======
   "ResourceOrderSettings":[
     {"name":"endNZ","order":1,"path":"sprites/endNZ/endNZ.yy",},
     {"name":"playerNZ","order":3,"path":"sprites/playerNZ/playerNZ.yy",},
     {"name":"Sprite1","order":16,"path":"sprites/Sprite1/Sprite1.yy",},
     {"name":"gatorNZ","order":2,"path":"sprites/gatorNZ/gatorNZ.yy",},
+>>>>>>> c2f846427e05569223ee8a051a46c814a59811cf
     {"name":"fnt3","order":2,"path":"fonts/fnt3/fnt3.yy",},
+    {"name":"obj_gamemovermessageNZ","order":6,"path":"objects/obj_gamemovermessageNZ/obj_gamemovermessageNZ.yy",},
     {"name":"fnt_timer2","order":1,"path":"fonts/fnt_timer2/fnt_timer2.yy",},
+    {"name":"obj_canoeNZ","order":1,"path":"objects/obj_canoeNZ/obj_canoeNZ.yy",},
+    {"name":"fun_moveobstacleNZ","order":2,"path":"objects/fun_moveobstacleNZ/fun_moveobstacleNZ.yy",},
   ],
 }
