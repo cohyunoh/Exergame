@@ -31,12 +31,11 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"gatorNZ","path":"objects/gatorNZ/gatorNZ.yy",},},
     {"id":{"name":"playerNZ","path":"sprites/playerNZ/playerNZ.yy",},},
-    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},},
     {"id":{"name":"en","path":"sprites/en/en.yy",},},
     {"id":{"name":"gameover","path":"rooms/gameover/gameover.yy",},},
     {"id":{"name":"fnt3","path":"fonts/fnt3/fnt3.yy",},},
@@ -47,7 +46,6 @@
     {"id":{"name":"fnt_timer","path":"fonts/fnt_timer/fnt_timer.yy",},},
     {"id":{"name":"fnt_timer2","path":"fonts/fnt_timer2/fnt_timer2.yy",},},
     {"id":{"name":"gamemovermessageNZ","path":"objects/gamemovermessageNZ/gamemovermessageNZ.yy",},},
-    {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
     {"id":{"name":"bootNZ","path":"sprites/bootNZ/bootNZ.yy",},},
     {"id":{"name":"water","path":"sprites/water/water.yy",},},
     {"id":{"name":"getreadytimer","path":"objects/getreadytimer/getreadytimer.yy",},},
