@@ -1,7 +1,6 @@
 /// @description exits game
 
-game_end()
-
+room_goto(rm_Menu)
 
 
 
