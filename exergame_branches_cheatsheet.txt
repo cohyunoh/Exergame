@@ -1,3 +1,6 @@
+Main Game:
+git checkout main
+
 Balance Game:
 git checkout Balance
 
