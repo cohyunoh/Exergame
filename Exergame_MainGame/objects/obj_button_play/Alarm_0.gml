@@ -6,4 +6,4 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(rm_MiniGameSelect);
+room_goto(rm_MiniGameSelect); // we have poor naming conventions
