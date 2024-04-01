@@ -32,7 +32,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"bootNZ",
+    "path":"sprites/bootNZ/bootNZ.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
