@@ -1,0 +1,17 @@
+Main Game:
+git checkout main
+
+Balance Game:
+git checkout Balance
+
+Canoe Game:
+git checkout Canoe
+
+Nutrition Label Game:
+git checkout NutritionLabel
+
+Treadmill Game:
+git checkout TM
+
+Main Game:
+git checkout GameFrame
