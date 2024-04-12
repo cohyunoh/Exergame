@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"balance_spr_startbutton",
+  "%Name":"balance_spr_startbutton_dark",
   "bboxMode":0,
   "bbox_bottom":45,
   "bbox_left":2,
@@ -19,10 +19,9 @@
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"cde2a6f4-73ef-4faf-a500-ff6b12511338","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"cde2a6f4-73ef-4faf-a500-ff6b12511338","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"b2f7fb15-debc-415e-a8c5-2fd7f3ba3e3e","blendMode":0,"displayName":"default","isLocked":false,"name":"b2f7fb15-debc-415e-a8c5-2fd7f3ba3e3e","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"balance_spr_startbutton",
+  "name":"balance_spr_startbutton_dark",
   "nineSlice":null,
   "origin":4,
   "parent":{
@@ -34,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"balance_spr_startbutton",
+    "%Name":"balance_spr_startbutton_dark",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"balance_spr_startbutton",
+    "name":"balance_spr_startbutton_dark",
     "playback":1,
     "playbackSpeed":1.0,
     "playbackSpeedType":0,
@@ -70,7 +69,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"21498823-875f-4d3d-bf56-e38081ae288c","path":"sprites/balance_spr_startbutton/balance_spr_startbutton.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"21498823-875f-4d3d-bf56-e38081ae288c","path":"sprites/balance_spr_startbutton_dark/balance_spr_startbutton_dark.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c4bfdf25-a7b6-43af-948e-093cf6d564fd","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
