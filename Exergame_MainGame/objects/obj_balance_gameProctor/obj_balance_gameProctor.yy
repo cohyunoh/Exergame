@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_balance_bgstartbutton",
-  "eventList":[],
+  "%Name":"obj_balance_gameProctor",
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_balance_bgstartbutton",
+  "name":"obj_balance_gameProctor",
   "overriddenProperties":[],
   "parent":{
     "name":"OBJ_Balance",
@@ -27,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_balance_startbutton_bg",
-    "path":"sprites/spr_balance_startbutton_bg/spr_balance_startbutton_bg.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
