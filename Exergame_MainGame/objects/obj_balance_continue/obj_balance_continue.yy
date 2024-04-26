@@ -1,13 +1,14 @@
 {
   "$GMObject":"",
-  "%Name":"obj_balance_numberDisplay",
+  "%Name":"obj_balance_continue",
   "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_balance_numberDisplay",
+  "name":"obj_balance_continue",
   "overriddenProperties":[],
   "parent":{
     "name":"OBJ_Balance",
@@ -32,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_balance_numberDisplay",
-    "path":"sprites/spr_balance_numberDisplay/spr_balance_numberDisplay.yy",
+    "name":"spr_balance_continue",
+    "path":"sprites/spr_balance_continue/spr_balance_continue.yy",
   },
   "spriteMaskId":null,
   "visible":true,

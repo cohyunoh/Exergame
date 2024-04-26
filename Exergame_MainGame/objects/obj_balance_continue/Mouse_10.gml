@@ -1,3 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
-hovered = false;
+image_alpha = 0.6;
+hovered=true;

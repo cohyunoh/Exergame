@@ -1,3 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
-hovered = false;
+
+
+
+
+room_goto(rm_balance_wheel);

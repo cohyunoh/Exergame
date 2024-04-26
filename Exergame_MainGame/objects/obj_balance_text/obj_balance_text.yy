@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_balance_numberDisplay",
+  "%Name":"obj_balance_text",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_balance_numberDisplay",
+  "name":"obj_balance_text",
   "overriddenProperties":[],
   "parent":{
     "name":"OBJ_Balance",
@@ -31,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_balance_numberDisplay",
-    "path":"sprites/spr_balance_numberDisplay/spr_balance_numberDisplay.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

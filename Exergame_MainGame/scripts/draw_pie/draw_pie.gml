@@ -6,7 +6,7 @@ if (argument2 > 0) { // no point even running if there is nothing to display (al
     
     var numberofsections = 60; // there is no draw_get_circle_precision() else I would use that here
     var sizeofsection = 360/numberofsections;
-	
+
     val = (argument2/argument3) * numberofsections;
     
     if (val > 1) { // HTML5 version doesnt like triangle with only 2 sides 

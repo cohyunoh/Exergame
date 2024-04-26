@@ -1,0 +1,27 @@
+{
+  "$GMAnimCurve":"",
+  "%Name":"ANM_balance_wheel",
+  "channels":[
+    {"$GMAnimCurveChannel":"","%Name":"speed_up","colour":4290799884,"name":"speed_up","points":[
+        {"th0":-0.1,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
+        {"th0":-0.36891943,"th1":0.1,"tv0":-0.0065237284,"tv1":0.0,"x":1.0,"y":1.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+    {"$GMAnimCurveChannel":"","%Name":"slow_down","colour":4281083598,"name":"slow_down","points":[
+        {"th0":-0.1,"th1":0.33778626,"tv0":0.0,"tv1":0.0333333,"x":0.0,"y":1.0,},
+        {"th0":-0.5,"th1":0.1,"tv0":0.0,"tv1":0.0,"x":1.0,"y":0.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+    {"$GMAnimCurveChannel":"","%Name":"reverse","colour":4279025727,"name":"reverse","points":[
+        {"th0":-0.1,"th1":0.18312724,"tv0":0.0,"tv1":0.0,"x":0.0,"y":0.0,},
+        {"th0":-0.25969982,"th1":0.27437407,"tv0":0.0,"tv1":-0.0,"x":0.5,"y":1.0,},
+        {"th0":-0.18893129,"th1":0.1,"tv0":0.068399146,"tv1":0.0,"x":1.0,"y":0.0,},
+      ],"resourceType":"GMAnimCurveChannel","resourceVersion":"2.0","visible":true,},
+  ],
+  "function":2,
+  "name":"ANM_balance_wheel",
+  "parent":{
+    "name":"ANM_Balance",
+    "path":"folders/Animation Curves/ANM_Balance.yy",
+  },
+  "resourceType":"GMAnimCurve",
+  "resourceVersion":"2.0",
+}

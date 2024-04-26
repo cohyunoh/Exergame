@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"string_wrap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_wrap",
+  "parent":{
+    "name":"SCR_balance",
+    "path":"folders/Scripts/SCR_balance.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

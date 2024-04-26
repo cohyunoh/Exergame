@@ -4,4 +4,4 @@
 
 
 
-room_goto(rm_balance_wheel);
+room_goto(rm_balance_tutorial);
